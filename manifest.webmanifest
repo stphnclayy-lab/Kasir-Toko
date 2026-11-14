@@ -1,7 +1,7 @@
 {
   "name": "Kasir Chemindo Agung",
   "short_name": "Kasir",
-  "description": "Kasir sederhana: nama barang, jumlah, harga jual, tunai atau QRIS, struk 58 mm.",
+  "description": "Kasir sederhana: nama barang, jumlah, harga jual, tunai atau QRIS, struk 58 mm atau 80 mm, stock barang.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
