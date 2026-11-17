@@ -1,5 +1,5 @@
 /* Service worker: jaringan dulu, cadangan dari cache. Naikkan CACHE saat mengganti daftar SHELL. */
-const CACHE = 'kasir-v2';
+const CACHE = 'kasir-v3';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', e => {
   // Tiap berkas di-cache sendiri-sendiri: bila satu berkas belum terunggah (mis. ikon), yang lain tetap tersimpan
